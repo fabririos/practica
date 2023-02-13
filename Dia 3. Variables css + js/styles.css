@@ -1,0 +1,22 @@
+html {
+    --base: #ffc600;
+    --spacing: 10px;
+    --blur: 10px;
+}
+
+body {
+    text-align: center;
+    background: #193549;
+    color: #ffffff;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.controls {
+    margin-bottom: 50px;
+}
+
+img {
+    width: 90vw;
+    height: 65vh;
+}

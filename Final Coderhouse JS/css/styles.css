@@ -1,0 +1,84 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Press Start 2P', cursive;
+    position: relative;
+    color: #ffffff;
+}
+
+.fondo {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    background-color: white;
+    border: rgb(29, 168, 92) 2px solid;
+    padding: 2px;
+}
+button {
+    background-color: black;
+    color: white;
+    border: rgb(255, 255, 255) 2px solid;
+    padding: 6px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 3rem;
+}
+
+h1, h2, h3, h4 {
+    color: #a54646;
+}
+
+h1, h2 {
+    text-align: center;
+    padding: 2rem;
+}
+
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+  
+a:link {
+    color: #ffffff;
+}
+  
+a:visited {
+    color: #ffffff;
+    text-decoration:none;
+}
+  
+a:focus {
+    border-bottom: 1px solid;
+    background: #fcfff9;
+}
+  
+a:hover {
+    border-bottom: 1px solid;
+    background: #000000;
+}
+  
+a:active {
+    background: #000000;
+    color: #CDFEAA;
+    text-decoration:none;
+}
+
+#games {
+    display: flex;
+    justify-content: center;
+}
+
+
+p {
+    color: #ffffff;
+}
